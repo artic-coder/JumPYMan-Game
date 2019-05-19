@@ -5,6 +5,11 @@ _Jum**PY**Man_ is **2D-platform** game written in *PYthon* using [PyGame](https:
 1) Using *PIP* package manager run this command `pip install pygame` on terminal.</br>
 2)Use the official link [Download PyGame](https://www.pygame.org/download.shtml) to download.
 
+## Download JumPYMan executable from **PIP**:</br>
+Command : `pip install JumPYMan`</br>
+ [JumPYMan project on PIP](https://pypi.org/project/JumPYMan/)
+
+
 ## JumpyMan Action :
 ![](https://github.com/haseeb-heaven/JumPYMan-Game/blob/master/resources/jumpy_man.png?raw=true "")
 
