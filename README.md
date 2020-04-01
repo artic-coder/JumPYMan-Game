@@ -24,6 +24,5 @@ Improved **Graphics and sounds.**<br/>
 
 **VERSION INFO :**<br/>
 JumPYMan Version : V 1.0  Dated : 14/05/2019.<br/>
-Written and maintained by HaseeB Mir (haseebmir.hm@gmail.com)
 
 
