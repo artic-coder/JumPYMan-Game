@@ -1,5 +1,5 @@
 """JumpyMan in python3 with py framework
-Written by HaseeB Mir
+Written by Artic Coder
 Platform : MacOS using Sublime 3
 Features : 
 ~*Multiple Levels with multiple enemies.*~
